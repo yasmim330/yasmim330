@@ -1,3 +1,11 @@
 ## Hi there 👋
-<p align="center"> <img src="capa-perfil.png" width="420" alt="Capa do perfil" /> </p> <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Public+Sans&size=22&pause=1600&color=E63946&center=true&vCenter=true&width=700&lines=Estudante+de+An%C3%A1lise+e+Desenvolvimento+de+Sistemas;Seja+bem-vindo(a)" alt="Typing SVG" /> </p> <p align="center"> <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="32" /> <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="32" /> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFDE57" height="32" /> <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" height="32" /> <img src="https://img.shields.io/badge/Figma-1E1E1E?style=for-the-badge&logo=figma&logoColor=F24E1E" height="32" /> </p>
 
+
+<p align="center">
+  <img src="./assets/banner-animado-icons-melhorados.svg" alt="YASSSS banner" width="100%" />
+</p>
+
+
+<p align="center">
+  <img src="./banner-animado-icons-melhorados.svg" alt="YASSSS banner" width="100%" />
+</p>
