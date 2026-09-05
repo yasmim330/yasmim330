@@ -7,6 +7,10 @@
 
 
 <p align="left"> <a href="https://github.com/yasmim330/RECRUTAMENTO2.0"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=yasmim330&repo=RECRUTAMENTO2.0&theme=default&hide_border=true" /> </a> <a href="https://github.com/yasmim330/livepet"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=yasmim330&repo=livepet&theme=default&hide_border=true" /> </a> </p>
+
+
+<p align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=yasmim330&show_icons=true&theme=default&hide_border=true&count_private=true" /> <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=yasmim330&theme=default&hide_border=true" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasmim330&layout=compact&theme=default&hide_border=true" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=yasmim330&style=flat-square&color=2E86AB" alt="Visitor Count" /> </p>
 <!--
 **yasmim330/yasmim330** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
