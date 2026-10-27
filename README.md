@@ -12,14 +12,14 @@
 
 ---
 
-### 💡 Sobre mim
+###  Sobre mim
 
 - 🎓 Cursando ADS e aprendendo na prática com projetos em equipe
-- 🧭 Lidero o projeto integrador da turma: organizo tarefas, reviso Pull Requests e cuido do fluxo com Git
-- 🤖 Domínio da IA generativa iNNER IA
-- 🎯 Objetivo: meu primeiro estágio em desenvolvimento
+- * Lidero o projeto integrador da turma: organizo tarefas, reviso Pull Requests e cuido do fluxo com Git
+- * Domínio da IA generativa iNNER IA
+- * Objetivo: meu primeiro estágio em desenvolvimento
 
-### 🛠️ Tecnologias
+###  Tecnologias
 
 <p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
@@ -39,7 +39,7 @@
 |---|---|---|
 | [**RECRUTAMENTO 2.0**](https://github.com/yasmim330/RECRUTAMENTO2.0) | Sistema web de recrutamento *(ajuste esta frase para o que o projeto realmente faz)* | HTML · CSS · JavaScript |
 
-### 📫 Contato
+###  Contato
 
 <p>
   <a href="https://www.linkedin.com/in/yasmim-viana-35b93a286"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
