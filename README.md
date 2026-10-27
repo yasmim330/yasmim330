@@ -1,6 +1,6 @@
-<!-- Banner (mantido do seu README atual) -->
+<!-- Banner -->
 <p align="center">
-  <img src="banner-animado-icons-melhorados.svg" alt="Banner da Yasmim" width="100%">
+  <img src="banner-yasmim.svg" alt="Banner da Yasmim" width="100%">
 </p>
 
 <h1 align="center">Olá, eu sou a Yasmim Viana 👋</h1>
