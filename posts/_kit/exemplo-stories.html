@@ -1,0 +1,83 @@
+<!doctype html>
+<html lang="pt-BR"><head><meta charset="utf-8"><title>Stories Fiscal Hub</title>
+<link rel="stylesheet" href="brand.css">
+<style>
+html,body{width:1080px;height:1920px}
+.stage{position:relative;width:1080px;height:1920px;overflow:hidden;background:radial-gradient(1100px 900px at 50% 40%,#0f0f12,#08080a 70%);display:none}
+.stage.on{display:block}
+.abs{position:absolute}
+.brand{left:80px;top:290px;display:flex;align-items:center;gap:18px}
+.brand svg{width:64px;height:64px;color:#fff}
+.brand b{font-size:34px;font-weight:600;letter-spacing:-.02em}
+.k{font-family:var(--mono);font-size:28px;color:var(--acc-2);letter-spacing:.08em}
+h1{font-weight:700;letter-spacing:-.045em;line-height:1}
+.cta{font-size:34px;padding:20px 36px}
+/* story 1 */
+#st1 .col{left:80px;right:80px;top:470px;display:flex;flex-direction:column;gap:0}
+#st1 .k{margin-bottom:28px}
+#st1 h1{font-size:104px}
+#st1 .chips{display:flex;flex-wrap:wrap;gap:16px;margin-top:64px}
+#st1 .chips .pill{font-size:28px;padding:14px 24px;background:var(--panel);border-color:var(--line-2);color:var(--ink-2)}
+#st1 .chips .pill::before{background:var(--grn)}
+#st1 .chips .pill.q{color:var(--acc-2);border-color:var(--acc-line);background:var(--acc-soft);font-family:var(--mono)}
+#st1 .chips .pill.q::before{background:var(--acc)}
+#st1 .counter{margin-top:64px;display:flex;align-items:baseline;gap:26px;border-top:1px solid var(--line);padding-top:44px}
+#st1 .counter .n{font-family:var(--mono);font-size:150px;font-weight:600;line-height:.9;color:var(--acc)}
+#st1 .counter p{font-size:36px;color:var(--ink-2);font-weight:600;line-height:1.3;letter-spacing:-.01em}
+#st1 .cta{align-self:flex-start;margin-top:56px;position:static}
+/* story 2 */
+#st2 .k{left:0;right:0;top:400px;text-align:center}
+#st2 h1{left:60px;right:60px;top:456px;font-size:86px;text-align:center}
+.phone{left:350px;top:760px;width:380px;height:676px;border-radius:54px;padding:12px;background:linear-gradient(160deg,#3a3a42,#16161a 40%,#2a2a30);box-shadow:0 60px 120px -30px rgba(0,0,0,.95),0 0 0 2px rgba(255,255,255,.06),0 0 120px -20px rgba(255,122,26,.35)}
+.phone .scr{width:100%;height:100%;border-radius:44px;overflow:hidden;position:relative;background:#000}
+.phone img{width:100%;height:100%;object-fit:cover;display:block}
+.phone .isl{position:absolute;top:18px;left:50%;transform:translateX(-50%);width:130px;height:36px;border-radius:20px;background:#000}
+.play{position:absolute;left:50%;top:50%;width:132px;height:132px;margin:-66px 0 0 -66px;border-radius:50%;background:rgba(8,8,10,.55);border:2px solid rgba(255,255,255,.5);backdrop-filter:blur(6px);display:grid;place-items:center}
+.play::after{content:"";margin-left:10px;border-left:42px solid #fff;border-top:26px solid transparent;border-bottom:26px solid transparent}
+.tag2{position:absolute;right:-70px;top:520px;transform:rotate(-4deg);font-size:28px;padding:14px 22px;background:var(--acc)!important;color:#140800!important;border-color:var(--acc)!important;box-shadow:0 20px 40px -10px rgba(255,122,26,.6)}
+.tag2::before{background:#140800!important}
+#st2 .cta{left:50%;top:1484px;transform:translateX(-50%)}
+#st2 .brand{left:50%;transform:translateX(-50%)}
+</style></head>
+<body>
+<svg width="0" height="0" style="position:absolute"><symbol id="logo" viewBox="0 0 100 100">
+<path d="M50 7 L87 28.5 V71.5 L50 93 L13 71.5 V28.5 Z" fill="none" stroke="currentColor" stroke-width="5.5" stroke-linejoin="round"/>
+<path d="M50 47 V25 M50 47 L28 36 M50 47 L72 36 M50 47 L28 63 M50 47 L72 63 M50 47 V68" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" opacity=".75"/>
+<g fill="currentColor"><circle cx="50" cy="24" r="5.2"/><circle cx="27.5" cy="35.5" r="5.2"/><circle cx="72.5" cy="35.5" r="5.2"/><circle cx="27.5" cy="63.5" r="5.2"/><circle cx="72.5" cy="63.5" r="5.2"/>
+<rect x="41.5" y="38.5" width="17" height="17" rx="3" fill="#ff7a1a"/><path d="M42 67.5 H58 L50 82 Z" stroke="currentColor" stroke-width="2" stroke-linejoin="round"/></g></symbol></svg>
+
+<!-- STORY 1: pergunta da manhã -->
+<div class="stage" id="st1">
+  <div class="grid"></div>
+  <div class="glow" style="width:1000px;height:1000px;left:380px;top:-250px"></div>
+  <div class="glow" style="width:700px;height:700px;left:-300px;top:1300px;opacity:.5"></div>
+  <div class="abs brand"><svg><use href="#logo"/></svg><b>Fiscal Hub</b></div>
+  <div class="abs col">
+  <div class="k">PERGUNTA RÁPIDA</div>
+  <h1><span class="metal" style="display:block">Quantos fornecedores</span><span class="acc-t">entregam aí por dia?</span></h1>
+  <div class="chips">
+    <span class="pill">Laticínios</span><span class="pill">Frigorífico</span><span class="pill">Padaria</span>
+    <span class="pill">Hortifrúti</span><span class="pill">Frios</span><span class="pill">Sucos</span><span class="pill">Massas</span>
+    <span class="pill q">+ ?</span>
+  </div>
+  <div class="counter"><span class="n">20</span><p>só de perecíveis, no mercado<br>onde o Fiscal Hub nasceu.</p></div>
+  <span class="pill acc cta">Me conta o seu aqui embaixo ↓</span>
+  </div>
+</div>
+
+<!-- STORY 2: chamada para o Reels -->
+<div class="stage" id="st2">
+  <div class="grid"></div>
+  <div class="glow" style="width:1100px;height:1100px;left:-10px;top:500px"></div>
+  <div class="abs brand"><svg><use href="#logo"/></svg><b>Fiscal Hub</b></div>
+  <div class="abs k">REELS NOVO NO PERFIL</div>
+  <h1 class="abs"><span class="metal" style="display:block">Cadastro de fornecedores</span><span class="acc-t">chegou.</span></h1>
+  <div class="abs phone"><div class="scr"><img src="reel-frame.png"><div class="isl"></div><div class="play"></div></div>
+    <span class="pill tag2">21 segundos</span></div>
+  <span class="abs pill acc cta">Assiste lá no perfil ↗</span>
+</div>
+<script>
+const s=new URLSearchParams(location.search).get('s')||'1';
+document.getElementById('st'+s).classList.add('on');
+</script>
+</body></html>
