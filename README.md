@@ -37,7 +37,7 @@
 
 | Projeto | Descrição | Tecnologias |
 |---|---|---|
-| [**RECRUTAMENTO 2.0**](https://github.com/yasmim330/RECRUTAMENTO2.0) | Sistema web de recrutamento *(ajuste esta frase para o que o projeto realmente faz)* | HTML · CSS · JavaScript |
+| [**RECRUTAMENTO 2.0**](https://github.com/yasmim330/RECRUTAMENTO2.0) | Sistema web de recrutamento *(Desenvolvido para os recursos humanos.)* | HTML · CSS · JavaScript |
 
 ###  Contato
 
