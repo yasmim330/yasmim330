@@ -1,0 +1,1 @@
+Story vídeo 10s (ter 03/11) · tema: quiz 'nota de hoje, boleto de 14 dias vence quando?' · ângulo: pergunta com contagem regressiva e resposta (17/11) contada no calendário; trilha 104 BPM Fá maior marimba

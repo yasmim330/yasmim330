@@ -1,0 +1,1 @@
+Reel de tela 19s (sex 06/11) · tema: Um fornecedor. Uma nota. Três boletos. · ângulo: mini tutorial em 3 passos na tela de lançamento (fornecedor, data base, prazos 7/14/21) até salvar; trilha 124 BPM Sol maior house

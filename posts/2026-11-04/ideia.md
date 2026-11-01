@@ -1,0 +1,1 @@
+Carrossel 6 cards (qua 04/11) · tema: Vencimento não é palpite · ângulo: educação simples, um boleto fictício passando por 4 conferências (prazo combinado, emissão x entrega, boleto fora da regra, registro) com linha de fluxo atravessando os cards
