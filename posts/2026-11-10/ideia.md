@@ -1,0 +1,1 @@
+Story vídeo 10s (ter 10/11) · tema: 'A nota do CEASA chega aí como?' · ângulo: isso ou aquilo com 3 opções (papel, foto no celular, dias depois) e resposta por letra no direct; trilha 120 BPM Si bemol

@@ -1,0 +1,1 @@
+Estático (qui 12/11) · tema: série 'Pergunta de quem chega novo' parte 1/3 · ângulo: conversa novato x veterano sobre data de recebimento, com os avisos reais do Fiscal Hub (recebimento antigo e data no futuro)

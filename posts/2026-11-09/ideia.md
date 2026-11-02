@@ -1,0 +1,1 @@
+Reels 17s (seg 09/11) · tema: novidade conferência CEASA com IA · ângulo: 'Nem toda nota passa no coletor', notas do CEASA em papel/foto/atrasadas e a IA conferindo uma por uma (lançada, valor diferente, não lançada); fecha com 'A IA confere. Você decide.'; trilha 110 BPM Mi menor

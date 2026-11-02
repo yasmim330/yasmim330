@@ -1,0 +1,1 @@
+Carrossel 6 cards (qua 11/11) · tema: classificação tributária nova (cClassTrib) · ângulo: situação fictícia do 1º dia no fiscal; o que é, anda junto com o CST, obrigatório desde 03/08/2026, nota autorizada não é nota certa, o que o fiscal faz; fontes LC 214/2025, Ato Conjunto RFB/CGIBS 4/2026, NT 2025.002
